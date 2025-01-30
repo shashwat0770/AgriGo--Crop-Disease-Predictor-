@@ -1,9 +1,9 @@
 <h2>Welcome to the Crop Disease Predictor project!</h2>
 
-<h3>
+<h4>
   This AI-powered application helps farmers and agricultural experts detect crop diseases using Machine Learning (ML) & Deep Learning techniques. 
   By analyzing images of affected crops, the model predicts possible diseases and provides recommendations for treatment, helping improve crop health and yield.
-</h3>
+</h4>
 
 
 <h3>Features</h3>
